@@ -1,0 +1,12 @@
+C:\Users\kyle.yin\Desktop\abax_china\abax\abax\bin\Debug\abax.exe.config
+C:\Users\kyle.yin\Desktop\abax_china\abax\abax\bin\Debug\abax.exe
+C:\Users\kyle.yin\Desktop\abax_china\abax\abax\bin\Debug\abax.pdb
+C:\Users\kyle.yin\Desktop\abax_china\abax\abax\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\kyle.yin\Desktop\abax_china\abax\abax\obj\Debug\abax.exe
+C:\Users\kyle.yin\Desktop\abax_china\abax\abax\obj\Debug\abax.pdb
+C:\Users\kyle.yin\Desktop\yinjialetest\yinjialetest\yinjialetest\bin\Debug\yinjialetest.exe.config
+C:\Users\kyle.yin\Desktop\yinjialetest\yinjialetest\yinjialetest\bin\Debug\yinjialetest.exe
+C:\Users\kyle.yin\Desktop\yinjialetest\yinjialetest\yinjialetest\bin\Debug\yinjialetest.pdb
+C:\Users\kyle.yin\Desktop\yinjialetest\yinjialetest\yinjialetest\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\kyle.yin\Desktop\yinjialetest\yinjialetest\yinjialetest\obj\Debug\yinjialetest.exe
+C:\Users\kyle.yin\Desktop\yinjialetest\yinjialetest\yinjialetest\obj\Debug\yinjialetest.pdb
