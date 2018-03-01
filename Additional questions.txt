@@ -1,0 +1,7 @@
+What would it take to replace console output with JSON file export?
+1.import Newtonsoft.Json
+2.Serialization model
+3.generate stream file and save
+
+What do you need to do in order to make this application and it's classes testable?
+1.unit test
